@@ -51,7 +51,7 @@ struct CarWash            //1) a U.D.T. with a random number of member variables
 /*
  1)
  */
-struct Person
+struct Person FIXME: a later part of this project uses this UDT name.  pick a different type name.
 {
     char gender;
     float height;
